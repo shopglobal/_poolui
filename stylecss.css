@@ -768,7 +768,7 @@ b {
   height: 50px;
   padding-left: 25px;
   border-radius: 30px 0 0 30px;
-  border: 2px solid #06c963;
+  border: 2px solid #d4af47;
   font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
   font-size: 18px;
   color: #fff;
@@ -790,7 +790,7 @@ b {
   background: -webkit-linear-gradient(left, #d4af37 0%,#2e3037 100%);
   background: linear-gradient(to right, #d4af37 0%,#2e3037 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d4af37', endColorstr='#2e3037',GradientType=1 );
-  border-color: #06c963;
+  border-color: #d4af37;
 }
 .stats #addressError {
   text-align: center;
@@ -844,7 +844,7 @@ b {
   text-align: center;
 }
 .portsWrap h4 {
-  color: #06c963;
+  color: #d4af37;
 }
 #miningPorts .stats:nth-child(2) {
   padding-left: 30px;
@@ -1094,7 +1094,7 @@ b {
     width: 100%;
     border-radius: 30px;
     display: block;
-    border: 2px solid #06c963!important;
+    border: 2px solid #d4af37!important;
   }
   .input-group .input-group-btn {
     width: 100%;
